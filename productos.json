@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nombre": "Air Jordan 1",
+        "marca": "Nike",
+        "talla": 42,
+        "precio": 500000,
+        "stock": 5
+    },
+    {
+        "id": 2,
+        "nombre": "Yeezy 350",
+        "marca": "Adidas",
+        "talla": 41,
+        "precio": 700000,
+        "stock": 3
+    }
+]
